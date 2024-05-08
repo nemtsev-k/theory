@@ -316,6 +316,12 @@ git commit --amend -m "Правильное сообщение коммита"
 
 rebase, cherry-pick, squash, bisect
 
+Сайты использующие репозитории Git
+
+* GitHub
+* Bitbucket
+* GitVerse
+
 ## Парадигмы программирования
 
 ### Императивное программирование
