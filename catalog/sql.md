@@ -33,4 +33,11 @@ PrismaORM
 
 CRUD
 
+MySQL
+
+MariaDB
+
+Microsoft SQL
+
+T-SQL
 
